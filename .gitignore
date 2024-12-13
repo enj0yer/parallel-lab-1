@@ -1,0 +1,9 @@
+visualizations/*
+!visualizations/.gitkeep
+
+main
+go.sum
+
+data/*
+!data/.gitkeep
+*.txt
